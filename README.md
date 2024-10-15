@@ -52,17 +52,14 @@ This command will install the additional tools needed for the application.
 
 1. Add a Router:
   - Enter the router’s name, IP address, username, password (if needed), and port number.
-  - Click the "Add" button to save it to your list.
+  - Click the "Add Router" button to save it to your list.
 
 2. Delete a Router:
-  - Select a router from the list and click the "Delete" button to remove it.
+  - Select a router from the list and click the "Delete Selected Router" button to remove it.
 
-3. Set Bandwidth Limit:
+3. Set/Update Bandwidth Limit:
   - Enter the desired upload and download limits (in kbps or mbps).
-  - Click the "Set Bandwidth Limit" button to apply the limits to all routers in your list.
+  - Click the "Apply Bandwidth Limit" button to apply the limits to all routers in your list.
 
-4. Update Bandwidth Limit:
-  - Select a router, modify the upload or download limits, and click "Update" to apply the changes.
-
-5. Saving Your Routers
+4. Saving Your Routers
   - The application automatically saves the router information so you don’t lose it. When you open the application again, your routers will still be there!
