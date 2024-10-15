@@ -57,9 +57,14 @@ This command will install the additional tools needed for the application.
 2. Delete a Router:
   - Select a router from the list and click the "Delete Selected Router" button to remove it.
 
-3. Set/Update Bandwidth Limit:
+3. Limit Bandwidth for All Routers:
   - Enter the desired upload and download limits (in kbps or mbps).
   - Click the "Apply Bandwidth Limit" button to apply the limits to all routers in your list.
 
-4. Saving Your Routers
+4. Limit Bandwidth for a Specific Router:
+  - Select a router from the list for which you want to set a bandwidth limit.
+  - Enter the desired upload and download limits (in kbps or Mbps).
+  - Click the "Apply Bandwidth Limit" button to apply the limits to the selected router.
+
+5. Saving Your Routers
   - The application automatically saves the router information so you don’t lose it. When you open the application again, your routers will still be there!
